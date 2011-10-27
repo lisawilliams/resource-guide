@@ -1,0 +1,168 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org" />
+<title>Lisa Williams' Learn To Code Resources Guide for Journalists</title>
+  <title></title>
+</head>
+
+<body>
+  <p><em>I will be adding to this over time. &nbsp;If you'd like to know about new
+  additions, subscribe to this blog (or follow us on Tumblr). &nbsp;If you have additions
+  or corrections, please leave a comment below.&nbsp;</em></p>
+
+  <p><strong>Learn-to-Program Resources:</strong></p>
+
+  <p><em>Javascript</em><br />
+  <a href="http://codeacademy.com">CodeAcademy</a><br />
+  <br />
+  <em>Python</em><br />
+  <a href="http://learnpythonthehardway.org/">Learn Python The Hard Way</a>&nbsp;</p>
+
+  <p><em>Ruby</em><br />
+  <a href="hackety-hack.com">Hackety Hack</a><br />
+  <a href="http://rubymonk.com/">RubyMonk&nbsp;</a></p>
+
+  <p><a href="http://codeacademy.org">CodeAcademy.org</a> Not to be confused with
+  Codeacademy.com, this is an in-person, 12 week program located in Chicago, IL which
+  teaches novices to create web apps in Ruby.</p>
+
+  <p><em>PHP</em><br />
+  <a href="http://www.w3schools.com/PHP/">W3Schools PHP</a></p>
+
+  <p><em>General Resources</em></p>
+
+  <p><a href="http://net.tutsplus.com/">NetTuts</a> &nbsp;I love this tutorial site.
+  &nbsp;Many good things here.&nbsp;</p>
+
+  <p><em>Meetups</em></p>
+
+  <p>I strongly recommend that you find a local group devoted to the programming language
+  you choose to start learning in. You can check Meetup.com for these. &nbsp;I was helped
+  immensely by the members of the <a href=
+  "http://www.meetup.com/bostonphp/">BostonPHP</a> Meetup group.&nbsp;</p>
+
+  <p><strong>Setting up a development environment on your computer&nbsp;</strong></p>
+
+  <p>You will want to create a "development environment" on your computer. &nbsp;This
+  replicates the web server you'll eventually use to host your programs, and typically
+  includes web server software, a database, and files and packages required by the
+  programming language you intend to use. &nbsp;</p>
+
+  <p>There are several (free!) bundles for popular operating systems:</p>
+
+  <p><a href="http://www.mamp.info/en/index.html">MAMP</a> (MacOS, Apache, MySQL,
+  PHP)&nbsp;</p>
+
+  <p><a href="http://www.mamp.info/en/index.html">WAMP</a> (Windows, Apache, MySQL,
+  PHP)&nbsp;</p>
+
+  <p>When you download and install these, you have a small, live webserver on your laptop
+  that you can load your programs onto and test. &nbsp;</p>
+
+  <p>For other programming languages, you may have to download and install things to make
+  it work:</p>
+
+  <p><strong>Ruby</strong><br />
+  <a href="http://net.tutsplus.com/tutorials/ruby/how-to-install-ruby-on-a-mac/">Setting
+  Up Ruby on Mac OSX&nbsp;</a>&nbsp;(Expert level; looking for beginners' guides
+  suggestions)&nbsp;<br />
+  <a href=
+  "http://allaboutruby.wordpress.com/2006/01/09/installing-rails-on-windows-step-by-step-tutorial/">
+  Setting up Ruby on Windows</a></p>
+
+  <p><strong>Python</strong><br />
+  <a href="http://www.youtube.com/watch?v=BE1wDsLzOJA&amp;noredirect=1">Using Python on
+  Mac OSX</a><br />
+  <a href=
+  "http://www.anthonydebarros.com/2011/10/15/setting-up-python-in-windows-7/">Using
+  Python on Windows</a>&nbsp;(Expert level; looking for beginners' guides
+  suggestions)&nbsp;</p>
+
+  <p><strong>Text Editors</strong></p>
+
+  <p>You'll need something to actually write your programs in. &nbsp;Programmers have
+  extraordinarily strong opinions about these. &nbsp;Two popular editors, vi and EMACS,
+  both run in the command line in Unix. &nbsp;I've restricted this list to graphical text
+  editors.&nbsp;</p>
+
+  <p><a href="http://www.barebones.com/products/bbedit/">BBEdit</a>&nbsp;This is what I
+  use. &nbsp;<br />
+  <a href="http://macromates.com/">TextMate</a> MacOS editor. &nbsp;People I know have
+  said good things about it.&nbsp;</p>
+
+  <p><strong>Version Control</strong></p>
+
+  <p>A version control system stores your code safely and allows you to "roll back" your
+  changes to a point in time before you screwed it up. &nbsp;You will want it.&nbsp;</p>
+
+  <p><a href="http://git-scm.com/">Git</a> is the version control system I use. &nbsp;Git
+  is relatively new. &nbsp;SVN is probably the version control system in widest use
+  today, and CVS is the old warhorse of version control. &nbsp;</p>
+
+  <p><a href="http://mac.github.com/">Github for Mac</a> -- a graphical client that lets
+  me see my "repositories" and check in code to Github, the popular online code-sharing
+  site.&nbsp;<br />
+  <a href="http://github.com">Github</a>&nbsp;is a hosted version of Git (read: you don't
+  have to download and install Git). &nbsp;In addition to doing all the things you want a
+  version control system to do, it stores your stuff in the cloud, AND you can browse and
+  share code. &nbsp;Many news organizations, including the New York Times, The Chicago
+  Tribune, and ProPublica have Github pages where you can view -- and download! -- their
+  code. &nbsp;</p>
+
+  <p><strong>Bug Tracking</strong></p>
+
+  <p>One happy day you'll move your baby code onto the web and launch something...and
+  then you'll have to track bugs and new feature requests! &nbsp;To keep that from
+  devolving into a pile of inscrutable email, use a bug tracker. &nbsp;It will let other
+  members of your team make notes about bugs, or about new feature requests. &nbsp;You'll
+  end up with a neat, cleanly ordered list of requests which you can rank by priority.
+  &nbsp;</p>
+
+  <p><a href="http://16bugs.com/">16Bugs</a> -- This is what I use. &nbsp;It's VERY
+  simple, but I like that, and it also integrates with Basecamp. &nbsp;Free for single
+  projects.&nbsp;</p>
+
+  <p><strong>Programming and startup resources for women:&nbsp;</strong></p>
+
+  <p><a href="http://girldevelopit.com/">Girl Develop It</a><br />
+  <a href="http://pyladies.com/">PyLadies</a>&nbsp;and on Twitter:&nbsp;<a href=
+  "http://twitter.com/pyladies">@pyladies</a>&nbsp;</p>
+
+  <p><strong>Programming resources for kids</strong></p>
+
+  <p><a href="http://hackety-hack.net">Hackety Hack</a> -- teaches kids to program in
+  Ruby.&nbsp;<br />
+  <a href="http://scratch.mit.edu/">Scratch</a> -- a programming language and environment
+  developed for kids; designed to encourage kids to create games and animations.
+  &nbsp;</p>
+
+  <p><strong>Programming Blogs</strong></p>
+
+  <p>(I've only listed blogs here I actually personally read. &nbsp;Please do feel free
+  to suggest more!)</p>
+
+  <p><a href="http://www.codinghorror.com/blog/">Coding Horror</a></p>
+
+  <p><a href="http://jonathanstray.com/">Jonathan Stray</a></p>
+
+  <p><a href="http://scripting.com">Scripting.com</a> &nbsp;(Not always about
+  programming, but always worth reading).&nbsp;</p>
+
+  <p><strong>Things I've Written about Learning to Program</strong></p>
+
+  <p><a href=
+  "http://lifeandcode.tumblr.com/post/10596183761/learning-to-program-for-journalists-the-epic-howto">
+  Learning to Program for Journalists: The Epic HOWTO</a><br />
+  <a href=
+  "http://lifeandcode.tumblr.com/post/10034972791/code-to-make-a-point-code-to-make-change-on">
+  Code To Make a Point; Code To Make Change&nbsp;</a></p>
+
+  <p><em><br /></em></p>
+</body>
+</html>
+
