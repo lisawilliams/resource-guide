@@ -1,4 +1,3 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
@@ -6,14 +5,18 @@
 <head>
   <meta name="generator" content=
   "HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org" />
-<title>Lisa Williams' Learn To Code Resources Guide for Journalists</title>
-  <title></title>
+
+  <title>Lisa Williams' Learn To Program Resource Guide for Journalists</title>
 </head>
 
 <body>
-  <p><em>I will be adding to this over time. &nbsp;If you'd like to know about new
-  additions, subscribe to this blog (or follow us on Tumblr). &nbsp;If you have additions
-  or corrections, please leave a comment below.&nbsp;</em></p>
+
+  <p><em>Originally published at lifeandcode.tumblr.com. This is a list of resources you can use to begin to write your own programs.
+  &nbsp;I focus mostly on free resources that are available to anybody online. I will be
+  adding to this over time. &nbsp;If you'd like to know about new additions, subscribe to
+  this blog (or follow us on Tumblr). &nbsp;If you have additions or corrections, please
+  leave a comment below. You can also follow me on Twitter, where I am
+  @lisawilliams.&nbsp;</em></p>
 
   <p><strong>Learn-to-Program Resources:</strong></p>
 
@@ -27,17 +30,24 @@
   <a href="hackety-hack.com">Hackety Hack</a><br />
   <a href="http://rubymonk.com/">RubyMonk&nbsp;</a></p>
 
-  <p><a href="http://codeacademy.org">CodeAcademy.org</a> Not to be confused with
-  Codeacademy.com, this is an in-person, 12 week program located in Chicago, IL which
-  teaches novices to create web apps in Ruby.</p>
-
   <p><em>PHP</em><br />
   <a href="http://www.w3schools.com/PHP/">W3Schools PHP</a></p>
 
-  <p><em>General Resources</em></p>
+  <p><em>General Resources &amp; Free Computer Science Courses &amp; Lectures
+  Online</em></p>
 
   <p><a href="http://net.tutsplus.com/">NetTuts</a> &nbsp;I love this tutorial site.
-  &nbsp;Many good things here.&nbsp;</p>
+  &nbsp;Many good things here.&nbsp;<br />
+  <a href="http://cs50.tv/2010/fall/">Intro to Computer Science, Harvard</a> -- videos of
+  all lectures and notes are available for free online as part of the Open Courseware
+  movement. &nbsp;Very engaging instructor. &nbsp;<br />
+  <a href="http://see.stanford.edu/see/courses.aspx">Stanford Engineering Everywhere</a>
+  offers full video of lectures of many computer science classes, along with downloadable
+  study materials. Free.&nbsp;<br />
+  <a href=
+  "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/">
+  Intro to Computer Science, MIT</a>&nbsp;-- Full video and course materials via MIT Open
+  Courseware.&nbsp;</p>
 
   <p><em>Meetups</em></p>
 
@@ -88,7 +98,8 @@
   <p>You'll need something to actually write your programs in. &nbsp;Programmers have
   extraordinarily strong opinions about these. &nbsp;Two popular editors, vi and EMACS,
   both run in the command line in Unix. &nbsp;I've restricted this list to graphical text
-  editors.&nbsp;</p>
+  editors. &nbsp;The ones I list below are not free but have free trials. &nbsp;Looking
+  for suggestions of good, free graphical editors.&nbsp;</p>
 
   <p><a href="http://www.barebones.com/products/bbedit/">BBEdit</a>&nbsp;This is what I
   use. &nbsp;<br />
@@ -165,4 +176,3 @@
   <p><em><br /></em></p>
 </body>
 </html>
-
