@@ -6,38 +6,47 @@
   <meta name="generator" content=
   "HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org" />
 
-  <title>Lisa Williams' Learn To Program Resource Guide for Journalists</title>
+  <title></title>
 </head>
 
 <body>
-
-  <p><em>Originally published at lifeandcode.tumblr.com. This is a list of resources you can use to begin to write your own programs.
+  <p><em>This is a list of resources you can use to begin to write your own programs.
   &nbsp;I focus mostly on free resources that are available to anybody online. I will be
   adding to this over time. &nbsp;If you'd like to know about new additions, subscribe to
   this blog (or follow us on Tumblr). &nbsp;If you have additions or corrections, please
-  leave a comment below. You can also follow me on Twitter, where I am
-  @lisawilliams.&nbsp;</em></p>
+  leave a comment below. You can also follow me on Twitter, where I am <a href=
+  "http://twitter.com/lisawilliams">@lisawilliams</a>.&nbsp;</em></p>
 
-  <p><strong>Learn-to-Program Resources:</strong></p>
+  <p><span><strong>Learn-to-Program Resources</strong></span></p>
 
   <p><em>Javascript</em><br />
-  <a href="http://codeacademy.com">CodeAcademy</a><br />
+  <a href="http://codeacademy.com">Codecademy</a><br />
   <br />
   <em>Python</em><br />
-  <a href="http://learnpythonthehardway.org/">Learn Python The Hard Way</a>&nbsp;</p>
+  <a href="http://learnpythonthehardway.org/">Learn Python The Hard Way</a>&nbsp;<br />
+  <a href="http://inventwithpython.com/">Invent Your Own Games With
+  Python</a>&nbsp;<br />
+  <a href="http://code.google.com/edu/languages/google-python-class/">Google's Python
+  Class</a>&nbsp;</p>
 
   <p><em>Ruby</em><br />
   <a href="hackety-hack.com">Hackety Hack</a><br />
   <a href="http://rubymonk.com/">RubyMonk&nbsp;</a></p>
 
   <p><em>PHP</em><br />
-  <a href="http://www.w3schools.com/PHP/">W3Schools PHP</a></p>
+  <a href="http://devzone.zend.com/article/627">PHP For the Absolute
+  Beginner&nbsp;</a></p>
 
-  <p><em>General Resources &amp; Free Computer Science Courses &amp; Lectures
-  Online</em></p>
+  <p><em>Perl</em><br />
+  <a href="http://www.perl.org/books/beginning-perl/">Getting Started With
+  Perl</a>&nbsp;</p>
+
+  <p><em>Tutorials and Free Online Computer Science Courses</em></p>
 
   <p><a href="http://net.tutsplus.com/">NetTuts</a> &nbsp;I love this tutorial site.
   &nbsp;Many good things here.&nbsp;<br />
+  <a href="http://tutorialzine.com/">Tutorialzine</a> &nbsp;Excellent video/text
+  tutorials on a variety of web development topics. &nbsp;<br />
   <a href="http://cs50.tv/2010/fall/">Intro to Computer Science, Harvard</a> -- videos of
   all lectures and notes are available for free online as part of the Open Courseware
   movement. &nbsp;Very engaging instructor. &nbsp;<br />
@@ -49,14 +58,25 @@
   Intro to Computer Science, MIT</a>&nbsp;-- Full video and course materials via MIT Open
   Courseware.&nbsp;</p>
 
+  <p><em>Getting and Finding Answers</em></p>
+
+  <p><a href="http://stackoverflow.com">StackOverflow</a> &nbsp;This is a Q&amp;A site
+  for programmers. &nbsp;You can actually post a code snippet here and say "Why doesn't
+  this work?" But be sure to search first to make sure your question hasn't been
+  answered! You'll get snark if you don't.&nbsp;</p>
+
   <p><em>Meetups</em></p>
 
-  <p>I strongly recommend that you find a local group devoted to the programming language
-  you choose to start learning in. You can check Meetup.com for these. &nbsp;I was helped
-  immensely by the members of the <a href=
-  "http://www.meetup.com/bostonphp/">BostonPHP</a> Meetup group.&nbsp;</p>
+  <p>I <strong>strongly</strong> recommend that you find a local group devoted to the
+  programming language you choose to start learning in. &nbsp;<em>If you are using books
+  or online tutorials, at some point you will get stuck. &nbsp;If you don't have anyone
+  to help you, you will stay stuck.</em> You can check <a href=
+  "http://meetup.com">Meetup.com</a> for these. &nbsp;I was helped immensely by the
+  members of the <a href="http://www.meetup.com/bostonphp/">BostonPHP</a> Meetup
+  group.&nbsp;</p>
 
-  <p><strong>Setting up a development environment on your computer&nbsp;</strong></p>
+  <p><span><strong>Setting up a development environment on your
+  computer&nbsp;</strong></span></p>
 
   <p>You will want to create a "development environment" on your computer. &nbsp;This
   replicates the web server you'll eventually use to host your programs, and typically
@@ -77,7 +97,7 @@
   <p>For other programming languages, you may have to download and install things to make
   it work:</p>
 
-  <p><strong>Ruby</strong><br />
+  <p><em>Ruby</em><br />
   <a href="http://net.tutsplus.com/tutorials/ruby/how-to-install-ruby-on-a-mac/">Setting
   Up Ruby on Mac OSX&nbsp;</a>&nbsp;(Expert level; looking for beginners' guides
   suggestions)&nbsp;<br />
@@ -85,7 +105,7 @@
   "http://allaboutruby.wordpress.com/2006/01/09/installing-rails-on-windows-step-by-step-tutorial/">
   Setting up Ruby on Windows</a></p>
 
-  <p><strong>Python</strong><br />
+  <p><em>Python</em><br />
   <a href="http://www.youtube.com/watch?v=BE1wDsLzOJA&amp;noredirect=1">Using Python on
   Mac OSX</a><br />
   <a href=
@@ -93,20 +113,28 @@
   Python on Windows</a>&nbsp;(Expert level; looking for beginners' guides
   suggestions)&nbsp;</p>
 
-  <p><strong>Text Editors</strong></p>
+  <p><span><strong>Text Editors</strong></span></p>
 
   <p>You'll need something to actually write your programs in. &nbsp;Programmers have
   extraordinarily strong opinions about these. &nbsp;Two popular editors, vi and EMACS,
   both run in the command line in Unix. &nbsp;I've restricted this list to graphical text
-  editors. &nbsp;The ones I list below are not free but have free trials. &nbsp;Looking
-  for suggestions of good, free graphical editors.&nbsp;</p>
+  editors. &nbsp;(Thanks to <a href="http://twitter.com/#!/greglinch">Greg Linch</a> and
+  <a href="http://twitter.com/macdiva">Chrys Wu</a> for additional suggestions of free,
+  graphical text editors).&nbsp;</p>
 
   <p><a href="http://www.barebones.com/products/bbedit/">BBEdit</a>&nbsp;This is what I
-  use. &nbsp;<br />
+  use. &nbsp;Not free, but free trial.&nbsp;<br />
   <a href="http://macromates.com/">TextMate</a> MacOS editor. &nbsp;People I know have
-  said good things about it.&nbsp;</p>
+  said good things about it. Not free, but free trial.&nbsp;<br />
+  <a href="http://www.barebones.com/products/textwrangler/">TextWrangler</a> is the free
+  "little sister" of BBEdit.<br />
+  <a href="http://projects.gnome.org/gedit/">gEdit</a> is a simple, lightweight text
+  editor. &nbsp;Free and open source.&nbsp;<br />
+  <a href="http://www.amyeditor.com/">AmyEditor</a> is an online, collaborative text
+  editor (that is, you can edit code in the browser while another coder looks on from
+  over the web). &nbsp;Free.&nbsp;</p>
 
-  <p><strong>Version Control</strong></p>
+  <p><span><strong>Version Control</strong></span></p>
 
   <p>A version control system stores your code safely and allows you to "roll back" your
   changes to a point in time before you screwed it up. &nbsp;You will want it.&nbsp;</p>
@@ -121,11 +149,14 @@
   <a href="http://github.com">Github</a>&nbsp;is a hosted version of Git (read: you don't
   have to download and install Git). &nbsp;In addition to doing all the things you want a
   version control system to do, it stores your stuff in the cloud, AND you can browse and
-  share code. &nbsp;Many news organizations, including the New York Times, The Chicago
-  Tribune, and ProPublica have Github pages where you can view -- and download! -- their
-  code. &nbsp;</p>
+  share code. &nbsp;Many news organizations, including the <a href=
+  "https://github.com/NYTimes">New York Times</a>, <a href=
+  "https://github.com/newsapps">The Chicago Tribune</a>, and <a href=
+  "https://github.com/propublica">ProPublica</a> have Github pages where you can view --
+  and download! -- their code. &nbsp;(<a href="http://github.com/lisawilliams">Here's
+  where you can find my code on Github.</a> &nbsp;Friend me when you get there.)</p>
 
-  <p><strong>Bug Tracking</strong></p>
+  <p><span><strong>Bug Tracking</strong></span></p>
 
   <p>One happy day you'll move your baby code onto the web and launch something...and
   then you'll have to track bugs and new feature requests! &nbsp;To keep that from
@@ -138,41 +169,70 @@
   simple, but I like that, and it also integrates with Basecamp. &nbsp;Free for single
   projects.&nbsp;</p>
 
-  <p><strong>Programming and startup resources for women:&nbsp;</strong></p>
+  <p><span><strong>Programming resources for women</strong></span></p>
 
   <p><a href="http://girldevelopit.com/">Girl Develop It</a><br />
   <a href="http://pyladies.com/">PyLadies</a>&nbsp;and on Twitter:&nbsp;<a href=
-  "http://twitter.com/pyladies">@pyladies</a>&nbsp;</p>
+  "http://twitter.com/pyladies">@pyladies</a>&nbsp;<br />
+  <a href="http://webstartwomen.com/">Web Start Women&nbsp;</a></p>
 
-  <p><strong>Programming resources for kids</strong></p>
+  <p><span><strong>Programming resources for kids</strong></span></p>
 
   <p><a href="http://hackety-hack.net">Hackety Hack</a> -- teaches kids to program in
-  Ruby.&nbsp;<br />
+  Ruby. Good for former children, too.&nbsp;<br />
   <a href="http://scratch.mit.edu/">Scratch</a> -- a programming language and environment
   developed for kids; designed to encourage kids to create games and animations.
   &nbsp;</p>
 
-  <p><strong>Programming Blogs</strong></p>
+  <p><span><strong>Programming Blogs</strong></span></p>
 
   <p>(I've only listed blogs here I actually personally read. &nbsp;Please do feel free
   to suggest more!)</p>
 
-  <p><a href="http://www.codinghorror.com/blog/">Coding Horror</a></p>
+  <p><a href="http://www.codinghorror.com/blog/">Coding Horror<br /></a><a href=
+  "http://scripting.com">Scripting.com</a> &nbsp;(Not always about programming, but
+  always worth reading).&nbsp;</p>
 
-  <p><a href="http://jonathanstray.com/">Jonathan Stray</a></p>
+  <p><strong>Newshacking blogs</strong></p>
 
-  <p><a href="http://scripting.com">Scripting.com</a> &nbsp;(Not always about
-  programming, but always worth reading).&nbsp;</p>
+  <p>With thanks to <a href="http://twitter.com/#!/mthomps/">Matt Thompson's</a>
+  excellent post on Poynter, "<a href=
+  "http://www.poynter.org/how-tos/digital-strategies/150243/6-reasons-journalists-should-show-your-work-while-learning-creating/">Show
+  Your Work</a>."<br />
+  <br />
+  John Keefe's <a href="http://thingsivelearned.posterous.com/">Things I've
+  Learned<br /></a>Derek Willis' <a href="http://blog.thescoop.org/">The
+  Scoop<br /></a>Brian Boyer's <a href="http://hackerjournalist.net/">Hacker
+  Journalist<br /></a>Michelle Minkoff's <a href=
+  "http://michelleminkoff.com/">blog<br /></a>Jonathan Stray's <a href=
+  "http://jonathanstray.com">blog</a></p>
 
-  <p><strong>Things I've Written about Learning to Program</strong></p>
+  <p><span><strong>Things I've Written about Learning to Program</strong></span></p>
 
-  <p><a href=
-  "http://lifeandcode.tumblr.com/post/10596183761/learning-to-program-for-journalists-the-epic-howto">
-  Learning to Program for Journalists: The Epic HOWTO</a><br />
-  <a href=
-  "http://lifeandcode.tumblr.com/post/10034972791/code-to-make-a-point-code-to-make-change-on">
-  Code To Make a Point; Code To Make Change&nbsp;</a></p>
+  <p>This page is a list of ingredients -- but a list of ingredients isn't a recipe.
+  &nbsp;If you're looking for pointers on where to begin, read <a href=
+  "http://lifeandcode.tumblr.com/post/12037465634/learning-to-program-for-the-web-starting-from-scratch">
+  Learning to Code for the Web: Starting from Scratch</a>. &nbsp;If you're a journalist
+  and you're wondering why you should learn to code, or whether it's practical for you to
+  learn, read&nbsp;<a href=
+  "http://lifeandcode.tumblr.com/post/10596183761/learning-to-program-for-journalists-the-epic-howto">Learning
+  to Program for Journalists: The Epic HOWTO</a>.</p>
+
+  <p>Learning to code takes effort, and everybody has to answer the all-important "why
+  bother?" question for themselves. &nbsp;Here's mine:&nbsp;<a href=
+  "http://lifeandcode.tumblr.com/post/10034972791/code-to-make-a-point-code-to-make-change-on">Code
+  To Make a Point; Code To Make Change&nbsp;</a></p>
 
   <p><em><br /></em></p>
+
+  <p><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img src=
+  "http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" alt=
+  "Creative Commons License" /></a><br />
+  <span property="dct:title" dct="http://purl.org/dc/terms/">Life and Code's Learn To
+  Code Resource Guide</span> by <a href=
+  "http://lifeandcode.tumblr.com/post/11980940683/life-and-codes-learn-to-code-resources-page">
+  Lisa Williams</a> is licensed under a <a href=
+  "http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons
+  Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</p>
 </body>
 </html>
